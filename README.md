@@ -1,4 +1,4 @@
-# d밑바닥부터 시작하는 딥러닝 1
+# 밑바닥부터 시작하는 딥러닝 1
 ![image](https://www.hanbit.co.kr/data/books/B8475831198_l.jpg)
 
 
